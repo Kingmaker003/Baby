@@ -51,8 +51,6 @@ async def start(client, message):
         ],[
         InlineKeyboardButton("🎬 Join Our Movie Channel !", url='https://t.me/tamilblasterslinkz')
         ],[
-        InlineKeyboardButton("❤️ Subscribe YT ❤️", url='https://youtube.com/@richcreation619')
-        ],[
         InlineKeyboardButton("📝Admin-TG", url='https://t.me/Itz_Kavin_v3'),
         InlineKeyboardButton("📝Admin-Insta", url='https://instagram.com/broken_.editzz._?igshid=ZmZhODViOGI=')
         ]
@@ -106,11 +104,7 @@ async def cb_handler(client, query: CallbackQuery):
         InlineKeyboardButton('⚡️ About', callback_data='about'),
         InlineKeyboardButton('🤕 Help', callback_data='help')
         ],[
-        InlineKeyboardButton("🙋🏻 Insta Page ", url='https://instagram.com/broken_.editzz._?igshid=ZmZhODViOGI=')
-        ],[
         InlineKeyboardButton("🎬 Join Our Movie Channel !", url='https://t.me/tamilblasterslinkz')
-        ],[
-        InlineKeyboardButton("❤️ Subscribe YT ❤️", url='https://youtube.com/@richcreation619')
         ],[
         InlineKeyboardButton("📝Admin-TG", url='https://t.me/Itz_Kavin_v3'),
         InlineKeyboardButton("📝Admin-Insta", url='https://instagram.com/broken_.editzz._?igshid=ZmZhODViOGI=')
@@ -122,11 +116,7 @@ async def cb_handler(client, query: CallbackQuery):
         await query.message.edit_text(
             text=mr.HELP_TXT,
             reply_markup=InlineKeyboardMarkup( [[
-               #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ Contact Admin ❣️", url="https://t.me/Itz_Kavin_v3")
-               ],[
-               InlineKeyboardButton("❤️‍🔥 How to use me ? ❤️‍🔥", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
-               ],[
+               #⚠️ don't change source code & source link ⚠️ 
                InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/tamilblasterslinkz")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
@@ -139,12 +129,8 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.ABOUT_TXT.format(client.mention),
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup( [[
-               #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ Developer ❣️", url="https://instagram.com/itz._kavin?igshid=ZmZhODViOGI=")
-               ],[
-               InlineKeyboardButton("❤️‍🔥 How to make me ? ❤️‍🔥", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
-               ],[
-                InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/tamilblasterslinkz")
+               #⚠️ don't change source code & source link ⚠️#
+               InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/tamilblasterslinkz")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -155,12 +141,8 @@ async def cb_handler(client, query: CallbackQuery):
         await query.message.edit_text(
             text=mr.DEV_TXT,
             reply_markup=InlineKeyboardMarkup( [[
-               #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ Developer ❣️", url="https://instagram.com/itz._kavin?igshid=ZmZhODViOGI=")
-               ],[
-               InlineKeyboardButton("❤️‍🔥 How to make me ? ❤️‍🔥", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
-               ],[
-                InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/tamilblasterslinkz")
+               #⚠️ don't change source code & source link ⚠️#
+               InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/tamilblasterslinkz")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
