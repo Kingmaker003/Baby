@@ -36,8 +36,8 @@ class mr(object):
     ABOUT_TXT = """
 ╭───────────⍟
 ├🤖 The Name is : {}
-├👑 ADMIN-TG : <a href=https://t.me/LazyDeveloper>LazyDeveloper</a> 
-├👑 Instagram : <a href=https://www.instagram.com/LazyDeveloperrr>C-Insta</a> 
+├👑 ADMIN-TG : <a href=https://t.me/Tamilblasterslinkz>Tamilblasterslinkz</a> 
+├👑 Instagram : <a href=https://instagram.com/broken_.editzz._?igshid=ZmZhODViOGI=>C-Insta</a> 
 ├📕 LIBRARY : <a href=https://github.com/pyrogram>Pyrogram</a>
 ├✏️ LANGUAGE : <a href=https://www.python.org>Python 3</a>
 ├💾 DATABASE : <a href=https://cloud.mongodb.com>MongoDB</a>
@@ -64,7 +64,7 @@ Example:- /set_caption 📕 File Name: {filename}
 
 ✏️ <b><u>HOW TO RENAME A FILE</u></b>
 •> send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://www.instagram.com/LazyDeveloperrr>Direct Message</a>
+ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://instagram.com/broken_.editzz._?igshid=ZmZhODViOGI=>Direct Message</a>
 """
 
 #⚠️ don't remove our credits 🙏😢😢
